@@ -6,6 +6,8 @@ Basic React Crud app with real life functionality! Enjoy fun, yet effective trip
 
 In the project directory, you can run:
 
+### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
